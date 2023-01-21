@@ -1,12 +1,12 @@
 export const App = () => {
   return (
     <>
-      <Searchbar />
+      {/* <Searchbar />
       <ImageGallery />
       <ImageGalleryItem />
       <Loader />
       <Button />
-      <Modal />
+      <Modal /> */}
     </>
   );
 };
